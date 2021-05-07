@@ -18,7 +18,7 @@
 ### Полезные ссылки:
 Пример использования коннектора для построения кастомной модели атрибуции: https://youtu.be/5Gv4dtt8sjI
 
-Параметры и показатели Google Analytics: https://ga-dev-tools.appspot.com/dimensions-metrics-explorer/
+Параметры и показатели Google Analytics: https://developers.google.com/analytics/devguides/reporting/data/v1/api-schema
 
 Операторы фильтров: https://developers.google.com/analytics/devguides/reporting/core/v3/reference
 
